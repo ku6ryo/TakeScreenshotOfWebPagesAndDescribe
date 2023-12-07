@@ -1,0 +1,1 @@
+Taking screenshot of web pages and describe content in the pages.
